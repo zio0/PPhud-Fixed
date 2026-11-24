@@ -1,0 +1,6 @@
+fixed
+loadstring:348: attempt to index nil with 'protect_gui'
+    Stack Begin
+    Script 'loadstring', Line 348 - function Window
+    Script '', Line 4
+    Stack End
